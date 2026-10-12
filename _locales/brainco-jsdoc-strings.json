@@ -1,7 +1,7 @@
 {
-  "Brainco.value_level.high": "Attention greater than 75",
+  "Brainco.value_level.high": "Attention greater than or equal to 75",
   "Brainco.value_level.low": "Attention lower than 25",
-  "Brainco.get_Attention_Value":"Low: attention lower than 25; High: attention greater than 75.",
+  "Brainco.get_Attention_Value":"Low: attention lower than 25; High: attention greater than or equal to 75.",
   "Brainco.get_Command_Data": "Check if received specific command brainwave data",
   "Brainco.command_type.up": "Up command",
   "Brainco.command_type.down": "Down command",

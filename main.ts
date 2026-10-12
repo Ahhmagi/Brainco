@@ -11,7 +11,7 @@ namespace Brainco {
         //% block="low"
         low = 25,
         /**
-         * Attention greater than 75
+         * Attention greater than or equal to 75
          */
         //% block="high"
         high = 75
@@ -51,7 +51,7 @@ namespace Brainco {
     }
 
     /**
-    * Low: attention lower than 25; High: attention greater than 75.
+    * Low: attention lower than 25; High: attention greater than or equal to 75.
     */
     //% block="Attention %level" blockId="GetAttentionValue"
     export function get_Attention_Value(level: value_level): boolean {
@@ -66,7 +66,7 @@ namespace Brainco {
                 else
                     return false
             case value_level.high:
-                if (value > value_level.high)
+                if (value >= value_level.high)
                     return true
                 else
                     return false

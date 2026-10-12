@@ -1,6 +1,6 @@
 {
   "Brainco.get_Attention_Value|block": "\u4e13\u6ce8\u5ea6 %level",
-  "Brainco.value_level.high": "\u4e13\u6ce8\u5ea6\u5927\u4e8e75",
+  "Brainco.value_level.high": "\u4e13\u6ce8\u5ea6\u5927\u4e8e\u7b49\u4e8e75",
   "Brainco.value_level.high|block": "\u9ad8",
   "Brainco.value_level.low": "\u4e13\u6ce8\u5ea6\u4f4e\u4e8e25",
   "Brainco.value_level.low|block": "\u4f4e",
