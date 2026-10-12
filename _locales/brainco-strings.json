@@ -1,11 +1,9 @@
 {
   "Brainco.get_Attention_Value|block": "Attention %level",
-  "Brainco.value_level.high": "Attention greater than 65",
+  "Brainco.value_level.high": "Attention greater than 75",
   "Brainco.value_level.high|block": "high",
-  "Brainco.value_level.low": "Attention greater than 35",
+  "Brainco.value_level.low": "Attention lower than 25",
   "Brainco.value_level.low|block": "low",
-  "Brainco.value_level.middle": "Attention greater than 50",
-  "Brainco.value_level.middle|block": "middle",
   "Brainco.get_Command_Data|block": "Get command %command",
   "Brainco.command_type.up|block": "up",
   "Brainco.command_type.down|block": "down",

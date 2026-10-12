@@ -1,13 +1,12 @@
 {
-  "Brainco.value_level.high": "专注度大于65",
-  "Brainco.value_level.low": "专注度大于35",
-  "Brainco.value_level.middle": "专注度大于50",
-  "Brainco.get_Attention_Value": "低：专注度大于35；中：专注度大于50；高：专注度大于65；",
-  "Brainco.get_Command_Data": "检测是否接收到特定指令的脑电数据",
-  "Brainco.command_type.up": "向上指令（脑电数值 === 1）",
-  "Brainco.command_type.down": "向下指令（脑电数值 === 2）",
-  "Brainco.command_type.left": "向左指令（脑电数值 === 3）",
-  "Brainco.command_type.right": "向右指令（脑电数值 === 4）",
-  "Brainco.command_type.shoot": "发射指令（脑电数值 === 5）",
-  "Brainco.command_type.honk": "停止指令（脑电数值 === 6）"
+  "Brainco.value_level.high": "\u4e13\u6ce8\u5ea6\u5927\u4e8e75",
+  "Brainco.value_level.low": "\u4e13\u6ce8\u5ea6\u4f4e\u4e8e25",
+  "Brainco.get_Attention_Value": "\u4f4e\uff1a\u4e13\u6ce8\u5ea6\u4f4e\u4e8e25\uff1b\u9ad8\uff1a\u4e13\u6ce8\u5ea6\u5927\u4e8e75\uff1b",
+  "Brainco.get_Command_Data": "\u68c0\u6d4b\u662f\u5426\u63a5\u6536\u5230\u7279\u5b9a\u6307\u4ee4\u7684\u8111\u7535\u6570\u636e",
+  "Brainco.command_type.up": "\u5411\u4e0a\u6307\u4ee4\uff08\u8111\u7535\u6570\u503c === 1\uff09",
+  "Brainco.command_type.down": "\u5411\u4e0b\u6307\u4ee4\uff08\u8111\u7535\u6570\u503c === 2\uff09",
+  "Brainco.command_type.left": "\u5411\u5de6\u6307\u4ee4\uff08\u8111\u7535\u6570\u503c === 3\uff09",
+  "Brainco.command_type.right": "\u5411\u53f3\u6307\u4ee4\uff08\u8111\u7535\u6570\u503c === 4\uff09",
+  "Brainco.command_type.shoot": "\u53d1\u5c04\u6307\u4ee4\uff08\u8111\u7535\u6570\u503c === 5\uff09",
+  "Brainco.command_type.honk": "\u505c\u6b62\u6307\u4ee4\uff08\u8111\u7535\u6570\u503c === 6\uff09"
 }
